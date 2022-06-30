@@ -11,3 +11,21 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 I'll meet you over there, can't wait to get started!
 
 This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## GitHub Pages
+
+Step 1: [Generate a GitHub Pages site](https://github.com/Zi-Tao/github-pages-with-jekyll/issues/1)
+
+Step 2: [Customize your homepage](https://github.com/Zi-Tao/github-pages-with-jekyll/issues/1)
+
+Step 3: [Merge your pull request](https://github.com/Zi-Tao/github-pages-with-jekyll/pull/2)
+
+Step 4: [Customize site details](https://github.com/Zi-Tao/github-pages-with-jekyll/issues/3)
+
+Step 5: [Create a blog post](https://github.com/Zi-Tao/github-pages-with-jekyll/pull/4)
+
+Step 6: [Add blog post metadata](https://github.com/Zi-Tao/github-pages-with-jekyll/pull/4)
+
+Step 7: [Merge your first post](https://github.com/Zi-Tao/github-pages-with-jekyll/pull/4)
