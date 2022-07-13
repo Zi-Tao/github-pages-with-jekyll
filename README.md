@@ -14,7 +14,7 @@ This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## GitHub Pages
+## GitHub Pages [💎](https://github.com/Zi-Tao/github-pages-with-jekyll/blob/main/github-pages.pdf)
 
 Step 1: [Generate a GitHub Pages site](https://github.com/Zi-Tao/github-pages-with-jekyll/issues/1)
 
